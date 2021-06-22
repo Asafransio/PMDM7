@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasitosApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+</resources>
